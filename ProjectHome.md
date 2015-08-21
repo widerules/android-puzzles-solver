@@ -1,0 +1,1 @@
+A collection of some well known riddles. You can play "8 Queens", "Knight's tour" and "Solo". For all games variations are offered and you can also computer search for a solution.
